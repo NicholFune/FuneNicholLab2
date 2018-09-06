@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FuneNicholLab1</string>
+    <string name="distance_from_ust_3_8_km">Distance from UST: 3.8 km</string>
+    <string name="location_intramuros_manila_gen_luna_street_manila_luzon_1002_philippines">Location: Intramuros Manila Gen. Luna Street, Manila, Luzon 1002 Philippines</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="manila_for_a_day">Manila for a Day</string>
+    <string name="todo">TODO</string>
+</resources>
